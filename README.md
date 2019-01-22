@@ -63,21 +63,22 @@ $(document).ready(function () {
 | boxShadowOpacity | e.g. 0.05, 0.5, 0.8, 1, etc. | 0.05 | The transparency of the shadow. |
 | fontFamily | e.g. null, 'Arial, sans-serif', '"Times New Roman", serif' etc. | null | The font family of the box. |
 | fontSize | null, '13px', '14px', '16px', etc. | '16px' | The font size of the box. |
-| fontWeight | e.g. 'normal', 'bold', 'lighter', 'bolder', '100', '900', etc. | 'normal' | The font weight of the box. Possible values ​​may vary by font family. |
+| fontWeight | e.g. 'normal', 'bold', 'lighter', 'bolder', '100', '900', etc. | 'normal' | The font weight of the box. Possible values &#8203;&#8203;may vary by font family. |
 | color | e.g. '#333', '#369', '#454545', '#fff', etc. | '#fff' | The font color of the box. |
 | contentWidth | e.g. null, 'auto', '1170px', '1200px', etc. | 'auto' | The width of the box's contents. |
 | contentAndBtnHorizontalSpace | e.g. '32px', '48px', '3em', etc. | '3em' | The horizontal space between the description and the button. |
 | contentAndBtnVerticalSpace | e.g. '16px', '32px', '2em', etc. | '2em' | The vertical space between the description and the button. |
 | desc | 'Any text what you want' | 'We use cookies to ensure that we give you the best experience on our website. By continuing to use our site, you accept our cookie policy.' | The description of the box. |
+| customAnchors | e.g. [ { id: 'cookies', href: 'https://policies.google.com/technologies/cookies', title: 'About cookies', target: '_blank', text: 'cookies' }, { id: 'cookiePolicy', href: 'http://your-domain.com/privacy-policy', title: 'Cookie policy', target: '_blank', text: 'cookie policy' } ] | null | You can add custom anchors to the description. E.g. desc: 'We use {{cookies}} to ensure that we give you the best experience on our website. By continuing to use our site, you accept our {{cookiePolicy}}.' |
 | moreLinkStatus | true, false | true | The status of the 'More information' link. If the value is true, the 'More information' link appears. If the value is false, the 'More information' link does not appear. |
 | moreLinkDecorationStatus | true, false | true | The decoration's status of the 'More information' link. If the value is true, the decoration appears. If the value is false, the decoration does not appear. |
-| moreLinkDecorationType | 'dotted', 'dashed', 'solid' | 'dotted' | The decoration type of the 'More information' link. |
+| moreLinkDecorationType | 'none', 'dotted', 'dashed', 'solid' | 'dotted' | The decoration type of the 'More information' link. |
 | moreLinkText | 'Any text what you want' | 'More information' | The text of the 'More information' link. |
 | moreLinkColor | e.g. '#333', '#369', '#454545', '#fff', etc. | '#fff' | The font color of the 'More information' link. |
 | moreLinkFontFamily | e.g. null, 'Arial, sans-serif', '"Times New Roman", serif' etc. | null | The font family of the 'More information' link. |
 | moreLinkFontSize | null, '13px', '14px', '16px', etc. | '16px' | The font size of the 'More information' link. |
-| moreLinkFontWeight | e.g. 'normal', 'bold', 'lighter', 'bolder', '100', '900', etc. | 'bold' | The font weight of the 'More information' Link. Possible values ​​may vary by font family. |
-| moreLinkHref | URL e.g. 'https://your-domain.com/privacy-policy' | null | The href attribute of the 'More information' link. |
+| moreLinkFontWeight | e.g. 'normal', 'bold', 'lighter', 'bolder', '100', '900', etc. | 'bold' | The font weight of the 'More information' Link. Possible values &#8203;&#8203;may vary by font family. |
+| moreLinkHref | URL e.g. 'http://your-domain.com/privacy-policy' | null | The href attribute of the 'More information' link. |
 | btnAcceptText | 'Any text what you want' | 'Accept' | The text of the accept button. |
 | btnAcceptPaddingTop | e.g. '10px', '12px', '15px' etc. | '15px' | The top padding of the accept button. |
 | btnAcceptPaddingRight | e.g. '48px', '52px', '56px', etc. | '56px' | The right padding of the accept button. |
@@ -94,7 +95,7 @@ $(document).ready(function () {
 | btnAcceptBorderRadius | e.g. null, '3px', '4px', '10px', '999px', etc. | '999px' | The radius of border for the button. |
 | btnAcceptFontFamily | e.g. null, 'Arial, sans-serif', '"Times New Roman", serif' etc. | null | The font family of the accept button. |
 | btnAcceptFontSize | null, '13px', '14px', '16px', etc. | '14px' | The font size of the accept button. |
-| btnAcceptFontWeight | e.g. 'normal', 'bold', 'lighter', 'bolder', '100', '900', etc. | 'bold' | The font weight of the accept button. Possible values ​​may vary by font family. |
+| btnAcceptFontWeight | e.g. 'normal', 'bold', 'lighter', 'bolder', '100', '900', etc. | 'bold' | The font weight of the accept button. Possible values &#8203;&#8203;may vary by font family. |
 
 ## Other Projects
 
