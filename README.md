@@ -38,7 +38,7 @@ $(document).ready(function () {
 
 ## Parameters
 
-| Peoprty | Possible Values | Default Value | Description |
+| Property | Possible Values | Default Value | Description |
 | --- | --- | --- | --- |
 | expire | e.g. 30, 365, 1000, etc. | 365 | The expiration date of the cookie is from the date specified in days. |
 | breakpoint | e.g. '768px', '992px', '48em', etc. | '768px' | The width above which the box is aligned vertically. |
