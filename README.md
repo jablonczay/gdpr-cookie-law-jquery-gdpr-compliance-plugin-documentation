@@ -103,4 +103,3 @@ $(document).ready(function () {
 - [AudioJungle – Royalty free sounds](https://audiojungle.net/user/jablonczay/portfolio)
 - [Responsive Testimonals for jQuery](https://github.com/jablonczay/responsive-testimonals-for-jquery/)
 - [Scroll Styler – Free Wordpress Plugin](https://wordpress.org/plugins/scroll-styler/)
-- [Photo Frame Online – Add your own photo to predefined photo frames](http://photoframeonline.com)
