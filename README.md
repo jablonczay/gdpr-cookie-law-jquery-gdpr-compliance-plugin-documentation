@@ -103,3 +103,4 @@ $(document).ready(function () {
 - [AudioJungle – Royalty free sounds](https://audiojungle.net/user/jablonczay/portfolio)
 - [Responsive Testimonals for jQuery](https://github.com/jablonczay/responsive-testimonals-for-jquery/)
 - [Scroll Styler – Free Wordpress Plugin](https://wordpress.org/plugins/scroll-styler/)
+- [Royalty-free Photos](https://www.shutterstock.com/g/jablonczay)
