@@ -99,7 +99,8 @@ $(document).ready(function () {
 
 ## Other Projects
 
-- [Elegant Elements – jQuery HTML Form Plugin](https://codecanyon.net/item/jquery-forms-elegant-elements/18656657?ref=jablonczay)
+- [GDPR Cookie Law – GDPR Cookie Compliance jQuery Plugin](https://1.envato.market/50vqn)
+- [Elegant Elements – jQuery HTML Form Plugin](https://1.envato.market/j695n)
 - [AudioJungle – Royalty free sounds](https://audiojungle.net/user/jablonczay/portfolio)
 - [Responsive Testimonals for jQuery](https://github.com/jablonczay/responsive-testimonals-for-jquery/)
 - [Scroll Styler – Free Wordpress Plugin](https://wordpress.org/plugins/scroll-styler/)
