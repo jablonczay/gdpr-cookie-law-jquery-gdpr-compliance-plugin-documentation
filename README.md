@@ -8,7 +8,7 @@
 GDPR Cookie Law is a super fast jQuery plugin that allows you to create simple cookie notification with several options.
 
 #### :link: Demo: [Usage Examples](https://jablonczay.com/gdpr-cookie-law-jquery-gdpr-compliance-plugin/)
-#### :link: Purchase: [Buy this GDPR plugin on CodeCanyon](https://codecanyon.net/item/gdpr-cookie-law/22061612?ref=jablonczay)
+#### :link: Purchase: [Buy this GDPR plugin on CodeCanyon](https://1.envato.market/50vqn)
 
 ## Quick Start
 
@@ -99,7 +99,6 @@ $(document).ready(function () {
 
 ## Other Projects
 
-- [GDPR Cookie Law – GDPR Cookie Compliance jQuery Plugin](https://1.envato.market/50vqn)
 - [Elegant Elements – jQuery HTML Form Plugin](https://1.envato.market/j695n)
 - [AudioJungle – Royalty free sounds](https://audiojungle.net/user/jablonczay/portfolio)
 - [Responsive Testimonals for jQuery](https://github.com/jablonczay/responsive-testimonals-for-jquery/)
