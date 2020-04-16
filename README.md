@@ -100,6 +100,7 @@ $(document).ready(function () {
 ## Other Projects
 
 - [Elegant Elements – jQuery HTML Form Plugin](https://1.envato.market/j695n)
+- [Elegant Age Verification – Responsive age-gate plugin for WordPress](https://1.envato.market/ag5YM)
 - [AudioJungle – Royalty free sounds](https://audiojungle.net/user/jablonczay/portfolio)
 - [Responsive Testimonals for jQuery](https://github.com/jablonczay/responsive-testimonals-for-jquery/)
 - [Scroll Styler – Free Wordpress Plugin](https://wordpress.org/plugins/scroll-styler/)
