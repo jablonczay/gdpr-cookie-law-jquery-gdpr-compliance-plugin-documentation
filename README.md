@@ -22,7 +22,7 @@ GDPR Cookie Law is a super fast jQuery plugin that allows you to create simple c
 3. Add the GDPR Cookie Law JavaScript files to the head or the body section on your page:
 
 ```html
-<script src="http://your-domain.com/gdpr-cookie-law/js/jquery-3.3.2.min.js"></script>
+<script src="http://your-domain.com/gdpr-cookie-law/js/jquery-3.3.1.min.js"></script>
 <script src="http://your-domain.com/gdpr-cookie-law/js/gdpr-cookie-law.min.js"></script>
 <script>
 $(document).ready(function () {
